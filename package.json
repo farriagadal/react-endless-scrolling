@@ -13,11 +13,11 @@
     "scrolling",
     "endless-scrolling"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Fernando Arriagada <farriagadal94@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/react-endless-scrolling.git"
+    "url": "https://github.com/farriagadal/react-endless-scrolling.git"
   },
   "peerDependencies": {
     "react": "^17.0.0",
