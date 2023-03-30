@@ -7,7 +7,12 @@
     "build": "webpack",
     "prepublishOnly": "npm run build"
   },
-  "keywords": ["react", "infinite-scroll", "scrolling", "endless-scrolling"],
+  "keywords": [
+    "react",
+    "infinite-scroll",
+    "scrolling",
+    "endless-scrolling"
+  ],
   "author": "Your Name <your.email@example.com>",
   "license": "MIT",
   "repository": {
@@ -25,5 +30,8 @@
     "babel-loader": "^8.2.2",
     "webpack": "^5.4.0",
     "webpack-cli": "^4.1.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.8.1"
   }
 }
